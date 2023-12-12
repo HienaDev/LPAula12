@@ -260,8 +260,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 4106107749838222828, guid: 48d16cf6077ae164d809969c64bfddaa, type: 3}
-  levelSpec: {fileID: 11400000, guid: 18eebb44dc3f48149b836a3093fb9cc8, type: 2}
-  levelsSpecs: []
+  levelsSpecs:
+  - {fileID: 11400000, guid: 18eebb44dc3f48149b836a3093fb9cc8, type: 2}
+  - {fileID: 11400000, guid: a4e8b7c10db58f24a9e9e51a8951b080, type: 2}
+  - {fileID: 11400000, guid: ab519649bd9d2044aa95ec294a73d3a5, type: 2}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
